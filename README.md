@@ -10,7 +10,7 @@
 ## 📋 Pages
 
 ### 1. Executive Overview
-![Executive Overview](Screenshot/Executive-Overview.png)
+![Executive Overview](Screenshot/Executive%20Overview.png)
 
 > High-level command center for governance leadership. Tracks 25,298 findings, 
 > 16,633 open issues, 1,146 critical issues, and a quality score of 93.67. 
@@ -21,7 +21,7 @@
 ---
 
 ### 2. Data Quality
-![Data Quality](Screenshot/Data-Quality.png)
+![Data Quality](Screenshot/Data%20Quality.png)
 
 > Operational quality scorecard with avg accuracy 92.8%, completeness 93.9%, 
 > consistency rate 88.65%, and duplicate rate 5.84%. Features duplicate rate 
@@ -32,7 +32,7 @@
 ---
 
 ### 3. Data Compliance
-![Data Compliance](Screenshot/Data-Compliance.png)
+![Data Compliance](Screenshot/Data%20Complience.png)
 
 > Financial risk and regulatory compliance view exposing €2.06bn total 
 > financial exposure, €1,779.99M estimated fines, and €277M remediation cost. 
